@@ -1,1 +1,1 @@
-# projects
+# Random projects for my portfolio.
